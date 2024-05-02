@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div className="App">
-      
+
       {/* <header className="App-header">
         <h1>Naung Yoe Moe Lwin & No No Yamin</h1>
       </header> */}
@@ -31,7 +31,7 @@ function App() {
             <h1 className='husband'> Naung Yoe </h1>
             <h1 className='wife'> No No </h1>
             <img className='heartImage' src={require('./images/heart.png')} alt={'heart image'} />
-            <img src={require('./images/Main Photo.JPG')} alt={`Couple Photo`} />
+            <img src={require('./images/mainphoto.JPG')} alt={`Couple Photo`} />
           </div>
         </section>
         <section>
