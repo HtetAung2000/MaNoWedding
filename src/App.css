@@ -7,6 +7,8 @@
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+
+
 .album {
   margin-top: 2%;
   margin-bottom: 5%;
@@ -84,8 +86,13 @@
 }
 
 .powered {
+  padding-top: 2%;
   text-align: center;
   font-size: 16px;
+}
+
+.powered a {
+  text-decoration: none;
 }
 
 .fst_anni {
@@ -113,6 +120,8 @@
 }
 
 .first_icon {
+  margin-right: 55%;
+  margin-top: 5%;
   position: absolute;
   width: 5%;
   height: auto;
@@ -128,8 +137,8 @@
   position: absolute;
   width: 5%;
   height: auto;
-  margin-left: 85%;
-  margin-top: 10%;
+  margin-left: 70%;
+  margin-top: 7%;
 }
 
 .final_year p {
@@ -178,7 +187,7 @@
   position: absolute;
   width: 5%;
   height: auto;
-  margin-left: 92%;
+  margin-left: 75%;
   margin-top: 5%;
 }
 
@@ -213,8 +222,8 @@
 
 .propose_photo {
   position: absolute;
-  margin-left: 30%;
-  margin-top: 10%;
+  margin-left: 20%;
+  margin-top: 7%;
   width: 5%;
   height: auto;
 }
@@ -339,6 +348,10 @@
     margin-top: 10%;
   }
 
+  .intern_photo {
+    margin-left: 85%;
+    margin-top: 10%;
+  }
 
   .first_icon {
     margin-top: 10%;
@@ -361,6 +374,7 @@
   }
 
   .intern_photo {
+    margin-left: 85%;
     margin-top: 16%;
   }
 
