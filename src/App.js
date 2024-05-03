@@ -112,7 +112,7 @@ function App() {
           <img src={require('./images/kiss.jpg')} />
         </section>
 
-        <section>
+        <section> 
           <p className='thank'> We hope you enjoy celebrating with us and thank you for making our day so special !! </p>
           <p className='powered'> This wedding website is powered by <a href='https://www.facebook.com/htetaung.lucifer' target='blank'>@Htet Aung</a></p>
         </section>
