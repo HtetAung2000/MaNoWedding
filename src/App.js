@@ -31,7 +31,7 @@ function App() {
             <h1 className='husband'> Naung Yoe </h1>
             <h1 className='wife'> No No </h1>
             <img className='heartImage' src={require('./images/heart.png')} alt={'heart image'} />
-            <img src={require('./images/mainphoto.JPG')} alt={`Couple Photo`} />
+            <img src={require('./images/mainphoto.jpg')} alt={`Couple Photo`} />
           </div>
         </section>
         <section>
@@ -39,7 +39,7 @@ function App() {
         </section>
         <section>
           <div className='wedding'>
-            <img src={require('./images/wedding.JPG')} alt={`Couple Photo`} />
+            <img src={require('./images/wedding.jpg')} alt={`Couple Photo`} />
             <h1>We're Married ! <br /> 12 - 4 - 2024 </h1>
           </div>
           <div className='year'>
@@ -49,7 +49,7 @@ function App() {
           <div className='Year0'>
             <div className="first-date">
               <img src={require('./images/first-date.jpg')} alt={`Couple Photo`} />
-              <img src={require('./images/Sign_day.JPG')} />
+              <img src={require('./images/Sign_day.jpg')} />
             </div>
           </div>
         </section>
@@ -79,7 +79,7 @@ function App() {
             We did it together - graduation as our relationship goals.
             <h4> Feb - 2020</h4>
           </p> <img className='final_photo' src={require('./images/final_photo.png')} />
-          <img className='final_img' src={require('./images/final_year.JPG')} />
+          <img className='final_img' src={require('./images/final_year.jpg')} />
         </section>
 
         <section className='mogok'>
@@ -93,7 +93,7 @@ function App() {
           <p> Say 'I Do' to a lifetime of love.
             <h4> 11 Jan - 2024</h4>
           </p><img className='propose_photo' src={require('./images/propose_photo.png')} />
-          <img className='pro_img' src={require('./images/propose.JPG')} />
+          <img className='pro_img' src={require('./images/propose.jpg')} />
         </section>
 
         <section className='ending'>
@@ -101,7 +101,7 @@ function App() {
             <h3> Our journey ahead is filled with love. </h3>
             <img className='love_bird' src={require('./images/love-birds.png')} />
           </div>
-          <img className='ending_img' src={require('./images/ending.JPG')} />
+          <img className='ending_img' src={require('./images/ending.jpg')} />
         </section>
 
         <div className="album">
@@ -109,7 +109,7 @@ function App() {
         </div>
 
         <section className='kissing'>
-          <img src={require('./images/Kiss.JPG')} />
+          <img src={require('./images/kiss.jpg')} />
         </section>
 
         <section>
